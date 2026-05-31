@@ -1,0 +1,73 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "shark.moc3",
+		"Textures": [
+			"textures/texture_00.png"
+		],
+		"Physics": "shark.physics3.json",
+		"DisplayInfo": "shark.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "lollipop",
+				"File": "expression_lollipop.json"
+			},
+			{
+				"Name": "plate",
+				"File": "expression_plate.json"
+			},
+			{
+				"Name": "outfit",
+				"File": "expression_outfit.json"
+			},
+			{
+				"Name": "empty_hand",
+				"File": "expression_empty_hand.json"
+			},
+			{
+				"Name": "stunned",
+				"File": "expression_stunned.json"
+			},
+			{
+				"Name": "blush",
+				"File": "expression_blush.json"
+			},
+			{
+				"Name": "sweat",
+				"File": "expression_sweat.json"
+			},
+			{
+				"Name": "sunglasses",
+				"File": "expression_sunglasses.json"
+			},
+			{
+				"Name": "holding_lollipop",
+				"File": "expression_holding_lollipop.json"
+			},
+			{
+				"Name": "angry",
+				"File": "expression_angry.json"
+			},
+			{
+				"Name": "mouth_right",
+				"File": "expression_mouth_right.json"
+			},
+			{
+				"Name": "mouth_left",
+				"File": "expression_mouth_left.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}

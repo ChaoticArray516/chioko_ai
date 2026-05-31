@@ -1,4 +1,5 @@
-/target/
+ellen_rust_backend/target/
+frontend/dist/
 node_modules/
 .idea/
 *.rs.bk
